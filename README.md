@@ -37,6 +37,5 @@ Platforms
 * Cesium ion
 * Mapbox
 
-University of Kentucky GEO 409, 2021.
+*University of Kentucky GEO 409, 2021.*
 
-![play](site-mapindexes/cesiumindex.html)
