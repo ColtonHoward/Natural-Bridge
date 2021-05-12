@@ -38,3 +38,5 @@ Platforms
 * Mapbox
 
 University of Kentucky GEO 409, 2021.
+
+![play](site-mapindexes/cesiumindex.html)
