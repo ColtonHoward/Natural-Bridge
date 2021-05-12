@@ -24,6 +24,17 @@ Follow [this link](https://api.mapbox.com/styles/v1/ncho225/ckohdr0ka2snx17pgowo
 
 
 ## Sources and Tools
-Imagery was created by Colton Howard for the University of Kentucky Department of Geography, Spring 2021. This presentation is a final project created in GEO 409.
+Imagery was created by Colton Howard for the University of Kentucky Department of Geography, Spring 2021. This presentation is a final project created for GEO 409.
 
-Lidar point cloud data was retrieved from
+LAS data was retrieved from [KyFromAbove](https://kyfromabove.ky.gov/) project. 2018 NAIP imagery downloaded from the ftp://kymartian.ky.gov. 
+
+Tools
+* ArcPy & ArcGIS Pro
+* Python modules subprocess, zip, etc.
+* Potree point cloud renderer
+
+Platforms
+* Cesium ion
+* Mapbox
+
+University of Kentucky GEO 409, 2021.
